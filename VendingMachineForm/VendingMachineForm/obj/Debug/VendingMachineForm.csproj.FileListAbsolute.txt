@@ -1,0 +1,10 @@
+D:\C#\VendingMachineForm\VendingMachineForm\bin\Debug\VendingMachineForm.exe.config
+D:\C#\VendingMachineForm\VendingMachineForm\bin\Debug\VendingMachineForm.exe
+D:\C#\VendingMachineForm\VendingMachineForm\bin\Debug\VendingMachineForm.pdb
+D:\C#\VendingMachineForm\VendingMachineForm\obj\Debug\VendingMachineForm.csproj.AssemblyReference.cache
+D:\C#\VendingMachineForm\VendingMachineForm\obj\Debug\VendingMachineForm.Form1.resources
+D:\C#\VendingMachineForm\VendingMachineForm\obj\Debug\VendingMachineForm.Properties.Resources.resources
+D:\C#\VendingMachineForm\VendingMachineForm\obj\Debug\VendingMachineForm.csproj.GenerateResource.cache
+D:\C#\VendingMachineForm\VendingMachineForm\obj\Debug\VendingMachineForm.csproj.CoreCompileInputs.cache
+D:\C#\VendingMachineForm\VendingMachineForm\obj\Debug\VendingMachineForm.exe
+D:\C#\VendingMachineForm\VendingMachineForm\obj\Debug\VendingMachineForm.pdb

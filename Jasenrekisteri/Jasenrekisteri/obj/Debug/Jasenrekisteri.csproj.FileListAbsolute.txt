@@ -1,0 +1,7 @@
+D:\C#\Jasenrekisteri\Jasenrekisteri\bin\Debug\Jasenrekisteri.exe.config
+D:\C#\Jasenrekisteri\Jasenrekisteri\bin\Debug\Jasenrekisteri.exe
+D:\C#\Jasenrekisteri\Jasenrekisteri\bin\Debug\Jasenrekisteri.pdb
+D:\C#\Jasenrekisteri\Jasenrekisteri\obj\Debug\Jasenrekisteri.csproj.AssemblyReference.cache
+D:\C#\Jasenrekisteri\Jasenrekisteri\obj\Debug\Jasenrekisteri.csproj.CoreCompileInputs.cache
+D:\C#\Jasenrekisteri\Jasenrekisteri\obj\Debug\Jasenrekisteri.exe
+D:\C#\Jasenrekisteri\Jasenrekisteri\obj\Debug\Jasenrekisteri.pdb

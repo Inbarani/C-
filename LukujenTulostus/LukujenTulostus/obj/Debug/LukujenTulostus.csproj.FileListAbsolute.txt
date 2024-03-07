@@ -1,0 +1,7 @@
+D:\C#\LukujenTulostus\LukujenTulostus\bin\Debug\LukujenTulostus.exe.config
+D:\C#\LukujenTulostus\LukujenTulostus\bin\Debug\LukujenTulostus.exe
+D:\C#\LukujenTulostus\LukujenTulostus\bin\Debug\LukujenTulostus.pdb
+D:\C#\LukujenTulostus\LukujenTulostus\obj\Debug\LukujenTulostus.csproj.AssemblyReference.cache
+D:\C#\LukujenTulostus\LukujenTulostus\obj\Debug\LukujenTulostus.csproj.CoreCompileInputs.cache
+D:\C#\LukujenTulostus\LukujenTulostus\obj\Debug\LukujenTulostus.exe
+D:\C#\LukujenTulostus\LukujenTulostus\obj\Debug\LukujenTulostus.pdb

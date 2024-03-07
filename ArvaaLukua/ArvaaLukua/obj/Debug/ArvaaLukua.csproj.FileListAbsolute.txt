@@ -1,0 +1,7 @@
+D:\C#\ArvaaLukua\ArvaaLukua\obj\Debug\ArvaaLukua.csproj.AssemblyReference.cache
+D:\C#\ArvaaLukua\ArvaaLukua\obj\Debug\ArvaaLukua.csproj.CoreCompileInputs.cache
+D:\C#\ArvaaLukua\ArvaaLukua\bin\Debug\ArvaaLukua.exe.config
+D:\C#\ArvaaLukua\ArvaaLukua\bin\Debug\ArvaaLukua.exe
+D:\C#\ArvaaLukua\ArvaaLukua\bin\Debug\ArvaaLukua.pdb
+D:\C#\ArvaaLukua\ArvaaLukua\obj\Debug\ArvaaLukua.exe
+D:\C#\ArvaaLukua\ArvaaLukua\obj\Debug\ArvaaLukua.pdb

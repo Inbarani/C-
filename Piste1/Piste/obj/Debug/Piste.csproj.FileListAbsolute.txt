@@ -1,0 +1,16 @@
+Z:\Ohjelmointi2\Piste\Piste\bin\Debug\Piste.exe.config
+Z:\Ohjelmointi2\Piste\Piste\bin\Debug\Piste.exe
+Z:\Ohjelmointi2\Piste\Piste\bin\Debug\Piste.pdb
+Z:\Ohjelmointi2\Piste\Piste\obj\Debug\Piste.csprojResolveAssemblyReference.cache
+Z:\Ohjelmointi2\Piste\Piste\obj\Debug\Piste.exe
+Z:\Ohjelmointi2\Piste\Piste\obj\Debug\Piste.pdb
+Z:\Ohjelmointi2\PisteOma\Piste\bin\Debug\Piste.exe.config
+Z:\Ohjelmointi2\PisteOma\Piste\obj\Debug\Piste.exe
+Z:\Ohjelmointi2\PisteOma\Piste\obj\Debug\Piste.pdb
+D:\C#\Piste\Piste\bin\Debug\Piste.exe.config
+D:\C#\Piste\Piste\bin\Debug\Piste.exe
+D:\C#\Piste\Piste\bin\Debug\Piste.pdb
+D:\C#\Piste\Piste\obj\Debug\Piste.csproj.AssemblyReference.cache
+D:\C#\Piste\Piste\obj\Debug\Piste.csproj.CoreCompileInputs.cache
+D:\C#\Piste\Piste\obj\Debug\Piste.exe
+D:\C#\Piste\Piste\obj\Debug\Piste.pdb

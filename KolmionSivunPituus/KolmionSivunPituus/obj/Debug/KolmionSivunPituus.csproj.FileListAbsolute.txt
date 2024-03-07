@@ -1,0 +1,7 @@
+D:\C#\KolmionSivunPituus\KolmionSivunPituus\bin\Debug\KolmionSivunPituus.exe.config
+D:\C#\KolmionSivunPituus\KolmionSivunPituus\bin\Debug\KolmionSivunPituus.exe
+D:\C#\KolmionSivunPituus\KolmionSivunPituus\bin\Debug\KolmionSivunPituus.pdb
+D:\C#\KolmionSivunPituus\KolmionSivunPituus\obj\Debug\KolmionSivunPituus.csproj.AssemblyReference.cache
+D:\C#\KolmionSivunPituus\KolmionSivunPituus\obj\Debug\KolmionSivunPituus.csproj.CoreCompileInputs.cache
+D:\C#\KolmionSivunPituus\KolmionSivunPituus\obj\Debug\KolmionSivunPituus.exe
+D:\C#\KolmionSivunPituus\KolmionSivunPituus\obj\Debug\KolmionSivunPituus.pdb

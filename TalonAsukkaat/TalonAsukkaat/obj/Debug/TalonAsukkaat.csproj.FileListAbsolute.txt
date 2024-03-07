@@ -1,0 +1,13 @@
+Z:\Ohjelmointi2\TalonAsukkaat\TalonAsukkaat\bin\Debug\TalonAsukkaat.exe.config
+Z:\Ohjelmointi2\TalonAsukkaat\TalonAsukkaat\bin\Debug\TalonAsukkaat.exe
+Z:\Ohjelmointi2\TalonAsukkaat\TalonAsukkaat\bin\Debug\TalonAsukkaat.pdb
+Z:\Ohjelmointi2\TalonAsukkaat\TalonAsukkaat\obj\Debug\TalonAsukkaat.csprojResolveAssemblyReference.cache
+Z:\Ohjelmointi2\TalonAsukkaat\TalonAsukkaat\obj\Debug\TalonAsukkaat.exe
+Z:\Ohjelmointi2\TalonAsukkaat\TalonAsukkaat\obj\Debug\TalonAsukkaat.pdb
+D:\C#\TalonAsukkaat\TalonAsukkaat\bin\Debug\TalonAsukkaat.exe.config
+D:\C#\TalonAsukkaat\TalonAsukkaat\bin\Debug\TalonAsukkaat.exe
+D:\C#\TalonAsukkaat\TalonAsukkaat\bin\Debug\TalonAsukkaat.pdb
+D:\C#\TalonAsukkaat\TalonAsukkaat\obj\Debug\TalonAsukkaat.csproj.AssemblyReference.cache
+D:\C#\TalonAsukkaat\TalonAsukkaat\obj\Debug\TalonAsukkaat.csproj.CoreCompileInputs.cache
+D:\C#\TalonAsukkaat\TalonAsukkaat\obj\Debug\TalonAsukkaat.exe
+D:\C#\TalonAsukkaat\TalonAsukkaat\obj\Debug\TalonAsukkaat.pdb

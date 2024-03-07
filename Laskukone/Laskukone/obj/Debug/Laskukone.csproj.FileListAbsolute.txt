@@ -1,0 +1,13 @@
+E:\Koodit\C_sharp\Laskukone\Laskukone\bin\Debug\Laskukone.exe.config
+E:\Koodit\C_sharp\Laskukone\Laskukone\bin\Debug\Laskukone.exe
+E:\Koodit\C_sharp\Laskukone\Laskukone\bin\Debug\Laskukone.pdb
+E:\Koodit\C_sharp\Laskukone\Laskukone\obj\Debug\Laskukone.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\Laskukone\Laskukone\obj\Debug\Laskukone.exe
+E:\Koodit\C_sharp\Laskukone\Laskukone\obj\Debug\Laskukone.pdb
+D:\C#\Laskukone\Laskukone\bin\Debug\Laskukone.exe.config
+D:\C#\Laskukone\Laskukone\bin\Debug\Laskukone.exe
+D:\C#\Laskukone\Laskukone\bin\Debug\Laskukone.pdb
+D:\C#\Laskukone\Laskukone\obj\Debug\Laskukone.csproj.AssemblyReference.cache
+D:\C#\Laskukone\Laskukone\obj\Debug\Laskukone.csproj.CoreCompileInputs.cache
+D:\C#\Laskukone\Laskukone\obj\Debug\Laskukone.exe
+D:\C#\Laskukone\Laskukone\obj\Debug\Laskukone.pdb

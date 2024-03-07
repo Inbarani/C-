@@ -1,0 +1,7 @@
+D:\C#\Sanalaskuri\Sanalaskuri\obj\Debug\Sanalaskuri.csproj.AssemblyReference.cache
+D:\C#\Sanalaskuri\Sanalaskuri\obj\Debug\Sanalaskuri.csproj.CoreCompileInputs.cache
+D:\C#\Sanalaskuri\Sanalaskuri\bin\Debug\Sanalaskuri.exe.config
+D:\C#\Sanalaskuri\Sanalaskuri\bin\Debug\Sanalaskuri.exe
+D:\C#\Sanalaskuri\Sanalaskuri\bin\Debug\Sanalaskuri.pdb
+D:\C#\Sanalaskuri\Sanalaskuri\obj\Debug\Sanalaskuri.exe
+D:\C#\Sanalaskuri\Sanalaskuri\obj\Debug\Sanalaskuri.pdb

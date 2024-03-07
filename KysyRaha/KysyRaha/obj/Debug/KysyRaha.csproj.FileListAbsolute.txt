@@ -1,0 +1,7 @@
+D:\C#\KysyRaha\KysyRaha\bin\Debug\KysyRaha.exe.config
+D:\C#\KysyRaha\KysyRaha\bin\Debug\KysyRaha.exe
+D:\C#\KysyRaha\KysyRaha\bin\Debug\KysyRaha.pdb
+D:\C#\KysyRaha\KysyRaha\obj\Debug\KysyRaha.csproj.AssemblyReference.cache
+D:\C#\KysyRaha\KysyRaha\obj\Debug\KysyRaha.csproj.CoreCompileInputs.cache
+D:\C#\KysyRaha\KysyRaha\obj\Debug\KysyRaha.exe
+D:\C#\KysyRaha\KysyRaha\obj\Debug\KysyRaha.pdb

@@ -1,0 +1,7 @@
+D:\C#\CarDealer\CarDealer\bin\Debug\CarDealer.exe.config
+D:\C#\CarDealer\CarDealer\bin\Debug\CarDealer.exe
+D:\C#\CarDealer\CarDealer\bin\Debug\CarDealer.pdb
+D:\C#\CarDealer\CarDealer\obj\Debug\CarDealer.csproj.AssemblyReference.cache
+D:\C#\CarDealer\CarDealer\obj\Debug\CarDealer.csproj.CoreCompileInputs.cache
+D:\C#\CarDealer\CarDealer\obj\Debug\CarDealer.exe
+D:\C#\CarDealer\CarDealer\obj\Debug\CarDealer.pdb

@@ -1,0 +1,13 @@
+E:\Koodit\C_sharp\RaaputusArpa\RaaputusArpa\bin\Debug\RaaputusArpa.exe.config
+E:\Koodit\C_sharp\RaaputusArpa\RaaputusArpa\bin\Debug\RaaputusArpa.exe
+E:\Koodit\C_sharp\RaaputusArpa\RaaputusArpa\bin\Debug\RaaputusArpa.pdb
+E:\Koodit\C_sharp\RaaputusArpa\RaaputusArpa\obj\Debug\RaaputusArpa.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\RaaputusArpa\RaaputusArpa\obj\Debug\RaaputusArpa.exe
+E:\Koodit\C_sharp\RaaputusArpa\RaaputusArpa\obj\Debug\RaaputusArpa.pdb
+D:\C#\RaaputusArpa\RaaputusArpa\bin\Debug\RaaputusArpa.exe.config
+D:\C#\RaaputusArpa\RaaputusArpa\bin\Debug\RaaputusArpa.exe
+D:\C#\RaaputusArpa\RaaputusArpa\bin\Debug\RaaputusArpa.pdb
+D:\C#\RaaputusArpa\RaaputusArpa\obj\Debug\RaaputusArpa.csproj.AssemblyReference.cache
+D:\C#\RaaputusArpa\RaaputusArpa\obj\Debug\RaaputusArpa.csproj.CoreCompileInputs.cache
+D:\C#\RaaputusArpa\RaaputusArpa\obj\Debug\RaaputusArpa.exe
+D:\C#\RaaputusArpa\RaaputusArpa\obj\Debug\RaaputusArpa.pdb

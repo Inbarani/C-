@@ -1,0 +1,7 @@
+D:\C#\KysytäänLuvut\KysytäänLuvut\obj\Debug\KysytäänLuvut.csproj.AssemblyReference.cache
+D:\C#\KysytäänLuvut\KysytäänLuvut\obj\Debug\KysytäänLuvut.csproj.CoreCompileInputs.cache
+D:\C#\KysytäänLuvut\KysytäänLuvut\bin\Debug\KysytäänLuvut.exe.config
+D:\C#\KysytäänLuvut\KysytäänLuvut\bin\Debug\KysytäänLuvut.exe
+D:\C#\KysytäänLuvut\KysytäänLuvut\bin\Debug\KysytäänLuvut.pdb
+D:\C#\KysytäänLuvut\KysytäänLuvut\obj\Debug\KysytäänLuvut.exe
+D:\C#\KysytäänLuvut\KysytäänLuvut\obj\Debug\KysytäänLuvut.pdb

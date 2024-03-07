@@ -1,0 +1,7 @@
+D:\C#\Tietotyypit3\Tietotyypit3\bin\Debug\Tietotyypit3.exe.config
+D:\C#\Tietotyypit3\Tietotyypit3\bin\Debug\Tietotyypit3.exe
+D:\C#\Tietotyypit3\Tietotyypit3\bin\Debug\Tietotyypit3.pdb
+D:\C#\Tietotyypit3\Tietotyypit3\obj\Debug\Tietotyypit3.csproj.AssemblyReference.cache
+D:\C#\Tietotyypit3\Tietotyypit3\obj\Debug\Tietotyypit3.csproj.CoreCompileInputs.cache
+D:\C#\Tietotyypit3\Tietotyypit3\obj\Debug\Tietotyypit3.exe
+D:\C#\Tietotyypit3\Tietotyypit3\obj\Debug\Tietotyypit3.pdb

@@ -1,0 +1,7 @@
+D:\C#\sikkaNoppa\sikkaNoppa\bin\Debug\sikkaNoppa.exe.config
+D:\C#\sikkaNoppa\sikkaNoppa\bin\Debug\sikkaNoppa.exe
+D:\C#\sikkaNoppa\sikkaNoppa\bin\Debug\sikkaNoppa.pdb
+D:\C#\sikkaNoppa\sikkaNoppa\obj\Debug\sikkaNoppa.csproj.AssemblyReference.cache
+D:\C#\sikkaNoppa\sikkaNoppa\obj\Debug\sikkaNoppa.csproj.CoreCompileInputs.cache
+D:\C#\sikkaNoppa\sikkaNoppa\obj\Debug\sikkaNoppa.exe
+D:\C#\sikkaNoppa\sikkaNoppa\obj\Debug\sikkaNoppa.pdb

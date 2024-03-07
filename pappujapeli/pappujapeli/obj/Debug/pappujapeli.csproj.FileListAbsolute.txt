@@ -1,0 +1,7 @@
+D:\C#\pappujapeli\pappujapeli\obj\Debug\pappujapeli.csproj.AssemblyReference.cache
+D:\C#\pappujapeli\pappujapeli\obj\Debug\pappujapeli.csproj.CoreCompileInputs.cache
+D:\C#\pappujapeli\pappujapeli\bin\Debug\pappujapeli.exe.config
+D:\C#\pappujapeli\pappujapeli\bin\Debug\pappujapeli.exe
+D:\C#\pappujapeli\pappujapeli\bin\Debug\pappujapeli.pdb
+D:\C#\pappujapeli\pappujapeli\obj\Debug\pappujapeli.exe
+D:\C#\pappujapeli\pappujapeli\obj\Debug\pappujapeli.pdb

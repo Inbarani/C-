@@ -1,0 +1,7 @@
+D:\C#\pappupelikone\pappupelikone\bin\Debug\pappupelikone.exe.config
+D:\C#\pappupelikone\pappupelikone\bin\Debug\pappupelikone.exe
+D:\C#\pappupelikone\pappupelikone\bin\Debug\pappupelikone.pdb
+D:\C#\pappupelikone\pappupelikone\obj\Debug\pappupelikone.csproj.AssemblyReference.cache
+D:\C#\pappupelikone\pappupelikone\obj\Debug\pappupelikone.csproj.CoreCompileInputs.cache
+D:\C#\pappupelikone\pappupelikone\obj\Debug\pappupelikone.exe
+D:\C#\pappupelikone\pappupelikone\obj\Debug\pappupelikone.pdb

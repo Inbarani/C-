@@ -1,0 +1,2 @@
+D:\C#\Tietotyypit\Tietotyypit\obj\Debug\Tietotyypit.csproj.AssemblyReference.cache
+D:\C#\Tietotyypit\Tietotyypit\obj\Debug\Tietotyypit.csproj.CoreCompileInputs.cache

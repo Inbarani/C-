@@ -1,0 +1,7 @@
+D:\C#\SanatJarjestys\SanatJarjestys\bin\Debug\SanatJarjestys.exe.config
+D:\C#\SanatJarjestys\SanatJarjestys\bin\Debug\SanatJarjestys.exe
+D:\C#\SanatJarjestys\SanatJarjestys\bin\Debug\SanatJarjestys.pdb
+D:\C#\SanatJarjestys\SanatJarjestys\obj\Debug\SanatJarjestys.csproj.AssemblyReference.cache
+D:\C#\SanatJarjestys\SanatJarjestys\obj\Debug\SanatJarjestys.csproj.CoreCompileInputs.cache
+D:\C#\SanatJarjestys\SanatJarjestys\obj\Debug\SanatJarjestys.exe
+D:\C#\SanatJarjestys\SanatJarjestys\obj\Debug\SanatJarjestys.pdb

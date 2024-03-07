@@ -1,0 +1,7 @@
+C:\Users\mathi\OneDrive\Documents\C#\Perusjuttuja\Perusjuttuja\obj\Debug\Perusjuttuja.csproj.AssemblyReference.cache
+C:\Users\mathi\OneDrive\Documents\C#\Perusjuttuja\Perusjuttuja\obj\Debug\Perusjuttuja.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Documents\C#\Perusjuttuja\Perusjuttuja\bin\Debug\Perusjuttuja.exe.config
+C:\Users\mathi\OneDrive\Documents\C#\Perusjuttuja\Perusjuttuja\bin\Debug\Perusjuttuja.exe
+C:\Users\mathi\OneDrive\Documents\C#\Perusjuttuja\Perusjuttuja\bin\Debug\Perusjuttuja.pdb
+C:\Users\mathi\OneDrive\Documents\C#\Perusjuttuja\Perusjuttuja\obj\Debug\Perusjuttuja.exe
+C:\Users\mathi\OneDrive\Documents\C#\Perusjuttuja\Perusjuttuja\obj\Debug\Perusjuttuja.pdb

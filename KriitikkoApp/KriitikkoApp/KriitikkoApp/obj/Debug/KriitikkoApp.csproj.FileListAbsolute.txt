@@ -1,0 +1,9 @@
+C:\santtu\Koodit\C_sharp\KriitikkoApp\KriitikkoApp\bin\Debug\KriitikkoApp.exe.config
+C:\santtu\Koodit\C_sharp\KriitikkoApp\KriitikkoApp\bin\Debug\KriitikkoApp.exe
+C:\santtu\Koodit\C_sharp\KriitikkoApp\KriitikkoApp\bin\Debug\KriitikkoApp.pdb
+C:\santtu\Koodit\C_sharp\KriitikkoApp\KriitikkoApp\obj\Debug\KriitikkoApp.csprojResolveAssemblyReference.cache
+C:\santtu\Koodit\C_sharp\KriitikkoApp\KriitikkoApp\obj\Debug\KriitikkoApp.Form1.resources
+C:\santtu\Koodit\C_sharp\KriitikkoApp\KriitikkoApp\obj\Debug\KriitikkoApp.Properties.Resources.resources
+C:\santtu\Koodit\C_sharp\KriitikkoApp\KriitikkoApp\obj\Debug\KriitikkoApp.csproj.GenerateResource.Cache
+C:\santtu\Koodit\C_sharp\KriitikkoApp\KriitikkoApp\obj\Debug\KriitikkoApp.exe
+C:\santtu\Koodit\C_sharp\KriitikkoApp\KriitikkoApp\obj\Debug\KriitikkoApp.pdb

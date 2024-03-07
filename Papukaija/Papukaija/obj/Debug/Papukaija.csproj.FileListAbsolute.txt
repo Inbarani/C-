@@ -1,0 +1,13 @@
+E:\Koodit\C_sharp\Papukaija\Papukaija\bin\Debug\Papukaija.exe.config
+E:\Koodit\C_sharp\Papukaija\Papukaija\obj\Debug\Papukaija.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\Papukaija\Papukaija\bin\Debug\Papukaija.exe
+E:\Koodit\C_sharp\Papukaija\Papukaija\bin\Debug\Papukaija.pdb
+E:\Koodit\C_sharp\Papukaija\Papukaija\obj\Debug\Papukaija.exe
+E:\Koodit\C_sharp\Papukaija\Papukaija\obj\Debug\Papukaija.pdb
+D:\C#\Papukaija\Papukaija\bin\Debug\Papukaija.exe.config
+D:\C#\Papukaija\Papukaija\bin\Debug\Papukaija.exe
+D:\C#\Papukaija\Papukaija\bin\Debug\Papukaija.pdb
+D:\C#\Papukaija\Papukaija\obj\Debug\Papukaija.csproj.AssemblyReference.cache
+D:\C#\Papukaija\Papukaija\obj\Debug\Papukaija.csproj.CoreCompileInputs.cache
+D:\C#\Papukaija\Papukaija\obj\Debug\Papukaija.exe
+D:\C#\Papukaija\Papukaija\obj\Debug\Papukaija.pdb

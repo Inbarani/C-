@@ -1,0 +1,7 @@
+D:\C#\YmpyranPintaAla\YmpyranPintaAla\bin\Debug\YmpyranPintaAla.exe.config
+D:\C#\YmpyranPintaAla\YmpyranPintaAla\bin\Debug\YmpyranPintaAla.exe
+D:\C#\YmpyranPintaAla\YmpyranPintaAla\bin\Debug\YmpyranPintaAla.pdb
+D:\C#\YmpyranPintaAla\YmpyranPintaAla\obj\Debug\YmpyranPintaAla.csproj.AssemblyReference.cache
+D:\C#\YmpyranPintaAla\YmpyranPintaAla\obj\Debug\YmpyranPintaAla.csproj.CoreCompileInputs.cache
+D:\C#\YmpyranPintaAla\YmpyranPintaAla\obj\Debug\YmpyranPintaAla.exe
+D:\C#\YmpyranPintaAla\YmpyranPintaAla\obj\Debug\YmpyranPintaAla.pdb

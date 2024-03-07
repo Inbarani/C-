@@ -1,0 +1,7 @@
+C:\Users\mathi\OneDrive\Documents\C#\VertailutLoogi\VertailutLoogi\bin\Debug\VertailutLoogi.exe.config
+C:\Users\mathi\OneDrive\Documents\C#\VertailutLoogi\VertailutLoogi\bin\Debug\VertailutLoogi.exe
+C:\Users\mathi\OneDrive\Documents\C#\VertailutLoogi\VertailutLoogi\bin\Debug\VertailutLoogi.pdb
+C:\Users\mathi\OneDrive\Documents\C#\VertailutLoogi\VertailutLoogi\obj\Debug\VertailutLoogi.csproj.AssemblyReference.cache
+C:\Users\mathi\OneDrive\Documents\C#\VertailutLoogi\VertailutLoogi\obj\Debug\VertailutLoogi.csproj.CoreCompileInputs.cache
+C:\Users\mathi\OneDrive\Documents\C#\VertailutLoogi\VertailutLoogi\obj\Debug\VertailutLoogi.exe
+C:\Users\mathi\OneDrive\Documents\C#\VertailutLoogi\VertailutLoogi\obj\Debug\VertailutLoogi.pdb

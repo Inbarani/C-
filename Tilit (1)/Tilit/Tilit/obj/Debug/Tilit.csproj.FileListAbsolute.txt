@@ -1,0 +1,16 @@
+E:\Koodit\C_sharp\Tilit\Tilit\bin\Debug\Tilit.exe.config
+E:\Koodit\C_sharp\Tilit\Tilit\bin\Debug\Tilit.exe
+E:\Koodit\C_sharp\Tilit\Tilit\bin\Debug\Tilit.pdb
+E:\Koodit\C_sharp\Tilit\Tilit\obj\Debug\Tilit.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\Tilit\Tilit\obj\Debug\Tilit.exe
+E:\Koodit\C_sharp\Tilit\Tilit\obj\Debug\Tilit.pdb
+E:\Koodit\C_sharp\TilitOma\Tilit\bin\Debug\Tilit.exe.config
+E:\Koodit\C_sharp\TilitOma\Tilit\obj\Debug\Tilit.exe
+E:\Koodit\C_sharp\TilitOma\Tilit\obj\Debug\Tilit.pdb
+C:\Users\mathi\Downloads\Tilit (1)\Tilit\Tilit\obj\Debug\Tilit.csproj.AssemblyReference.cache
+C:\Users\mathi\Downloads\Tilit (1)\Tilit\Tilit\obj\Debug\Tilit.csproj.CoreCompileInputs.cache
+C:\Users\mathi\Downloads\Tilit (1)\Tilit\Tilit\obj\Debug\Tilit.exe
+C:\Users\mathi\Downloads\Tilit (1)\Tilit\Tilit\obj\Debug\Tilit.pdb
+C:\Users\mathi\Downloads\Tilit (1)\Tilit\Tilit\bin\Debug\Tilit.exe.config
+C:\Users\mathi\Downloads\Tilit (1)\Tilit\Tilit\bin\Debug\Tilit.exe
+C:\Users\mathi\Downloads\Tilit (1)\Tilit\Tilit\bin\Debug\Tilit.pdb

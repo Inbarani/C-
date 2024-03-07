@@ -1,0 +1,12 @@
+E:\Koodit\C_sharp\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.exe.config
+E:\Koodit\C_sharp\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.exe
+E:\Koodit\C_sharp\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.pdb
+E:\Koodit\C_sharp\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.exe
+E:\Koodit\C_sharp\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.pdb
+D:\C#\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.exe.config
+D:\C#\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.exe
+D:\C#\KriitikkoTeksti\KriitikkoTeksti\bin\Debug\KriitikkoTeksti.pdb
+D:\C#\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.csproj.AssemblyReference.cache
+D:\C#\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.csproj.CoreCompileInputs.cache
+D:\C#\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.exe
+D:\C#\KriitikkoTeksti\KriitikkoTeksti\obj\Debug\KriitikkoTeksti.pdb

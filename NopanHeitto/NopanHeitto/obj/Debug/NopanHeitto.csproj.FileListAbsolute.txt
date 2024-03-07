@@ -1,0 +1,7 @@
+D:\C#\NopanHeitto\NopanHeitto\bin\Debug\NopanHeitto.exe.config
+D:\C#\NopanHeitto\NopanHeitto\bin\Debug\NopanHeitto.exe
+D:\C#\NopanHeitto\NopanHeitto\bin\Debug\NopanHeitto.pdb
+D:\C#\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.csproj.AssemblyReference.cache
+D:\C#\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.csproj.CoreCompileInputs.cache
+D:\C#\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.exe
+D:\C#\NopanHeitto\NopanHeitto\obj\Debug\NopanHeitto.pdb

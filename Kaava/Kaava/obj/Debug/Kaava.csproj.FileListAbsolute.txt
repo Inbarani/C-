@@ -1,0 +1,7 @@
+D:\C#\Kaava\Kaava\bin\Debug\Kaava.exe.config
+D:\C#\Kaava\Kaava\bin\Debug\Kaava.exe
+D:\C#\Kaava\Kaava\bin\Debug\Kaava.pdb
+D:\C#\Kaava\Kaava\obj\Debug\Kaava.csproj.AssemblyReference.cache
+D:\C#\Kaava\Kaava\obj\Debug\Kaava.csproj.CoreCompileInputs.cache
+D:\C#\Kaava\Kaava\obj\Debug\Kaava.exe
+D:\C#\Kaava\Kaava\obj\Debug\Kaava.pdb

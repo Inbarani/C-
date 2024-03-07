@@ -1,0 +1,7 @@
+D:\C#\Jarjesta\Jarjesta\bin\Debug\Jarjesta.exe.config
+D:\C#\Jarjesta\Jarjesta\bin\Debug\Jarjesta.exe
+D:\C#\Jarjesta\Jarjesta\bin\Debug\Jarjesta.pdb
+D:\C#\Jarjesta\Jarjesta\obj\Debug\Jarjesta.csproj.AssemblyReference.cache
+D:\C#\Jarjesta\Jarjesta\obj\Debug\Jarjesta.csproj.CoreCompileInputs.cache
+D:\C#\Jarjesta\Jarjesta\obj\Debug\Jarjesta.exe
+D:\C#\Jarjesta\Jarjesta\obj\Debug\Jarjesta.pdb

@@ -1,0 +1,7 @@
+D:\C#\Valikko\Valikko\bin\Debug\Valikko.exe.config
+D:\C#\Valikko\Valikko\bin\Debug\Valikko.exe
+D:\C#\Valikko\Valikko\bin\Debug\Valikko.pdb
+D:\C#\Valikko\Valikko\obj\Debug\Valikko.csproj.AssemblyReference.cache
+D:\C#\Valikko\Valikko\obj\Debug\Valikko.csproj.CoreCompileInputs.cache
+D:\C#\Valikko\Valikko\obj\Debug\Valikko.exe
+D:\C#\Valikko\Valikko\obj\Debug\Valikko.pdb

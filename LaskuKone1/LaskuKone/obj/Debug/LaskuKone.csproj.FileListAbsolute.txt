@@ -1,0 +1,7 @@
+D:\C#\LaskuKone\LaskuKone\bin\Debug\LaskuKone.exe.config
+D:\C#\LaskuKone\LaskuKone\bin\Debug\LaskuKone.exe
+D:\C#\LaskuKone\LaskuKone\bin\Debug\LaskuKone.pdb
+D:\C#\LaskuKone\LaskuKone\obj\Debug\LaskuKone.csproj.AssemblyReference.cache
+D:\C#\LaskuKone\LaskuKone\obj\Debug\LaskuKone.csproj.CoreCompileInputs.cache
+D:\C#\LaskuKone\LaskuKone\obj\Debug\LaskuKone.exe
+D:\C#\LaskuKone\LaskuKone\obj\Debug\LaskuKone.pdb

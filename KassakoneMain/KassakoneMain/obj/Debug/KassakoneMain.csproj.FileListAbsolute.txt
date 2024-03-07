@@ -1,0 +1,7 @@
+D:\C#\KassakoneMain\KassakoneMain\bin\Debug\KassakoneMain.exe.config
+D:\C#\KassakoneMain\KassakoneMain\bin\Debug\KassakoneMain.exe
+D:\C#\KassakoneMain\KassakoneMain\bin\Debug\KassakoneMain.pdb
+D:\C#\KassakoneMain\KassakoneMain\obj\Debug\KassakoneMain.csproj.AssemblyReference.cache
+D:\C#\KassakoneMain\KassakoneMain\obj\Debug\KassakoneMain.csproj.CoreCompileInputs.cache
+D:\C#\KassakoneMain\KassakoneMain\obj\Debug\KassakoneMain.exe
+D:\C#\KassakoneMain\KassakoneMain\obj\Debug\KassakoneMain.pdb

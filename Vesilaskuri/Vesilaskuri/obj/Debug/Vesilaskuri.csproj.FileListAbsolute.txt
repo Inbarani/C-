@@ -1,0 +1,7 @@
+D:\C#\Vesilaskuri\Vesilaskuri\bin\Debug\Vesilaskuri.exe.config
+D:\C#\Vesilaskuri\Vesilaskuri\bin\Debug\Vesilaskuri.exe
+D:\C#\Vesilaskuri\Vesilaskuri\bin\Debug\Vesilaskuri.pdb
+D:\C#\Vesilaskuri\Vesilaskuri\obj\Debug\Vesilaskuri.csproj.AssemblyReference.cache
+D:\C#\Vesilaskuri\Vesilaskuri\obj\Debug\Vesilaskuri.csproj.CoreCompileInputs.cache
+D:\C#\Vesilaskuri\Vesilaskuri\obj\Debug\Vesilaskuri.exe
+D:\C#\Vesilaskuri\Vesilaskuri\obj\Debug\Vesilaskuri.pdb

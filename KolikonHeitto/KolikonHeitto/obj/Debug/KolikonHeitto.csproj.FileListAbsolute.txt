@@ -1,0 +1,7 @@
+D:\C#\KolikonHeitto\KolikonHeitto\bin\Debug\KolikonHeitto.exe.config
+D:\C#\KolikonHeitto\KolikonHeitto\bin\Debug\KolikonHeitto.exe
+D:\C#\KolikonHeitto\KolikonHeitto\bin\Debug\KolikonHeitto.pdb
+D:\C#\KolikonHeitto\KolikonHeitto\obj\Debug\KolikonHeitto.csproj.AssemblyReference.cache
+D:\C#\KolikonHeitto\KolikonHeitto\obj\Debug\KolikonHeitto.csproj.CoreCompileInputs.cache
+D:\C#\KolikonHeitto\KolikonHeitto\obj\Debug\KolikonHeitto.exe
+D:\C#\KolikonHeitto\KolikonHeitto\obj\Debug\KolikonHeitto.pdb

@@ -1,0 +1,13 @@
+E:\Koodit\C_sharp\JalkapalloEiToimi\JalkapalloEiToimi\bin\Debug\JalkapalloEiToimi.exe.config
+E:\Koodit\C_sharp\JalkapalloEiToimi\JalkapalloEiToimi\bin\Debug\JalkapalloEiToimi.exe
+E:\Koodit\C_sharp\JalkapalloEiToimi\JalkapalloEiToimi\bin\Debug\JalkapalloEiToimi.pdb
+E:\Koodit\C_sharp\JalkapalloEiToimi\JalkapalloEiToimi\obj\Debug\JalkapalloEiToimi.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\JalkapalloEiToimi\JalkapalloEiToimi\obj\Debug\JalkapalloEiToimi.exe
+E:\Koodit\C_sharp\JalkapalloEiToimi\JalkapalloEiToimi\obj\Debug\JalkapalloEiToimi.pdb
+D:\C#\JalkapalloEiToimi\JalkapalloEiToimi\bin\Debug\JalkapalloEiToimi.exe.config
+D:\C#\JalkapalloEiToimi\JalkapalloEiToimi\bin\Debug\JalkapalloEiToimi.exe
+D:\C#\JalkapalloEiToimi\JalkapalloEiToimi\bin\Debug\JalkapalloEiToimi.pdb
+D:\C#\JalkapalloEiToimi\JalkapalloEiToimi\obj\Debug\JalkapalloEiToimi.csproj.AssemblyReference.cache
+D:\C#\JalkapalloEiToimi\JalkapalloEiToimi\obj\Debug\JalkapalloEiToimi.csproj.CoreCompileInputs.cache
+D:\C#\JalkapalloEiToimi\JalkapalloEiToimi\obj\Debug\JalkapalloEiToimi.exe
+D:\C#\JalkapalloEiToimi\JalkapalloEiToimi\obj\Debug\JalkapalloEiToimi.pdb

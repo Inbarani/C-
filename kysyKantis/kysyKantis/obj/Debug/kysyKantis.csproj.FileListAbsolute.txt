@@ -1,0 +1,7 @@
+D:\C#\kysyKantis\kysyKantis\bin\Debug\kysyKantis.exe.config
+D:\C#\kysyKantis\kysyKantis\bin\Debug\kysyKantis.exe
+D:\C#\kysyKantis\kysyKantis\bin\Debug\kysyKantis.pdb
+D:\C#\kysyKantis\kysyKantis\obj\Debug\kysyKantis.csproj.AssemblyReference.cache
+D:\C#\kysyKantis\kysyKantis\obj\Debug\kysyKantis.csproj.CoreCompileInputs.cache
+D:\C#\kysyKantis\kysyKantis\obj\Debug\kysyKantis.exe
+D:\C#\kysyKantis\kysyKantis\obj\Debug\kysyKantis.pdb

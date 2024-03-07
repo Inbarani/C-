@@ -1,0 +1,7 @@
+D:\C#\KolmeSuurinta\KolmeSuurinta\bin\Debug\KolmeSuurinta.exe.config
+D:\C#\KolmeSuurinta\KolmeSuurinta\bin\Debug\KolmeSuurinta.exe
+D:\C#\KolmeSuurinta\KolmeSuurinta\bin\Debug\KolmeSuurinta.pdb
+D:\C#\KolmeSuurinta\KolmeSuurinta\obj\Debug\KolmeSuurinta.csproj.AssemblyReference.cache
+D:\C#\KolmeSuurinta\KolmeSuurinta\obj\Debug\KolmeSuurinta.csproj.CoreCompileInputs.cache
+D:\C#\KolmeSuurinta\KolmeSuurinta\obj\Debug\KolmeSuurinta.exe
+D:\C#\KolmeSuurinta\KolmeSuurinta\obj\Debug\KolmeSuurinta.pdb

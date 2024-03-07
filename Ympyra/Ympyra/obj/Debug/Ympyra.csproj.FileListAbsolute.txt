@@ -1,0 +1,7 @@
+D:\C#\Ympyra\Ympyra\bin\Debug\Ympyra.exe.config
+D:\C#\Ympyra\Ympyra\bin\Debug\Ympyra.exe
+D:\C#\Ympyra\Ympyra\bin\Debug\Ympyra.pdb
+D:\C#\Ympyra\Ympyra\obj\Debug\Ympyra.csproj.AssemblyReference.cache
+D:\C#\Ympyra\Ympyra\obj\Debug\Ympyra.csproj.CoreCompileInputs.cache
+D:\C#\Ympyra\Ympyra\obj\Debug\Ympyra.exe
+D:\C#\Ympyra\Ympyra\obj\Debug\Ympyra.pdb

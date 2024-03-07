@@ -1,0 +1,10 @@
+D:\C#\DiceGame\DiceGame\bin\Debug\DiceGame.exe.config
+D:\C#\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+D:\C#\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+D:\C#\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.AssemblyReference.cache
+D:\C#\DiceGame\DiceGame\obj\Debug\DiceGame.DiceGame.resources
+D:\C#\DiceGame\DiceGame\obj\Debug\DiceGame.Properties.Resources.resources
+D:\C#\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.GenerateResource.cache
+D:\C#\DiceGame\DiceGame\obj\Debug\DiceGame.csproj.CoreCompileInputs.cache
+D:\C#\DiceGame\DiceGame\obj\Debug\DiceGame.exe
+D:\C#\DiceGame\DiceGame\obj\Debug\DiceGame.pdb

@@ -1,0 +1,7 @@
+D:\C#\trial\trial\bin\Debug\trial.exe.config
+D:\C#\trial\trial\bin\Debug\trial.exe
+D:\C#\trial\trial\bin\Debug\trial.pdb
+D:\C#\trial\trial\obj\Debug\trial.csproj.AssemblyReference.cache
+D:\C#\trial\trial\obj\Debug\trial.csproj.CoreCompileInputs.cache
+D:\C#\trial\trial\obj\Debug\trial.exe
+D:\C#\trial\trial\obj\Debug\trial.pdb

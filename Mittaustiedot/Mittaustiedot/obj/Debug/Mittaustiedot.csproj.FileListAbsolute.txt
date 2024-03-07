@@ -1,0 +1,7 @@
+D:\C#\Mittaustiedot\Mittaustiedot\bin\Debug\Mittaustiedot.exe.config
+D:\C#\Mittaustiedot\Mittaustiedot\bin\Debug\Mittaustiedot.exe
+D:\C#\Mittaustiedot\Mittaustiedot\bin\Debug\Mittaustiedot.pdb
+D:\C#\Mittaustiedot\Mittaustiedot\obj\Debug\Mittaustiedot.csproj.AssemblyReference.cache
+D:\C#\Mittaustiedot\Mittaustiedot\obj\Debug\Mittaustiedot.csproj.CoreCompileInputs.cache
+D:\C#\Mittaustiedot\Mittaustiedot\obj\Debug\Mittaustiedot.exe
+D:\C#\Mittaustiedot\Mittaustiedot\obj\Debug\Mittaustiedot.pdb

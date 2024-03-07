@@ -1,0 +1,7 @@
+D:\C#\ListanPerusjuttu\ListanPerusjuttu\bin\Debug\ListanPerusjuttu.exe.config
+D:\C#\ListanPerusjuttu\ListanPerusjuttu\bin\Debug\ListanPerusjuttu.exe
+D:\C#\ListanPerusjuttu\ListanPerusjuttu\bin\Debug\ListanPerusjuttu.pdb
+D:\C#\ListanPerusjuttu\ListanPerusjuttu\obj\Debug\ListanPerusjuttu.csproj.AssemblyReference.cache
+D:\C#\ListanPerusjuttu\ListanPerusjuttu\obj\Debug\ListanPerusjuttu.csproj.CoreCompileInputs.cache
+D:\C#\ListanPerusjuttu\ListanPerusjuttu\obj\Debug\ListanPerusjuttu.exe
+D:\C#\ListanPerusjuttu\ListanPerusjuttu\obj\Debug\ListanPerusjuttu.pdb

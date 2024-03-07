@@ -1,0 +1,13 @@
+E:\Koodit\C_sharp\Kassakone\Kassakone\bin\Debug\Kassakone.exe.config
+E:\Koodit\C_sharp\Kassakone\Kassakone\bin\Debug\Kassakone.exe
+E:\Koodit\C_sharp\Kassakone\Kassakone\bin\Debug\Kassakone.pdb
+E:\Koodit\C_sharp\Kassakone\Kassakone\obj\Debug\Kassakone.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\Kassakone\Kassakone\obj\Debug\Kassakone.exe
+E:\Koodit\C_sharp\Kassakone\Kassakone\obj\Debug\Kassakone.pdb
+D:\C#\Kassakone\Kassakone\bin\Debug\Kassakone.exe.config
+D:\C#\Kassakone\Kassakone\bin\Debug\Kassakone.exe
+D:\C#\Kassakone\Kassakone\bin\Debug\Kassakone.pdb
+D:\C#\Kassakone\Kassakone\obj\Debug\Kassakone.csproj.AssemblyReference.cache
+D:\C#\Kassakone\Kassakone\obj\Debug\Kassakone.csproj.CoreCompileInputs.cache
+D:\C#\Kassakone\Kassakone\obj\Debug\Kassakone.exe
+D:\C#\Kassakone\Kassakone\obj\Debug\Kassakone.pdb

@@ -1,0 +1,7 @@
+D:\C#\KiviPaperiSaksat\KiviPaperiSaksat\bin\Debug\KiviPaperiSaksat.exe.config
+D:\C#\KiviPaperiSaksat\KiviPaperiSaksat\bin\Debug\KiviPaperiSaksat.exe
+D:\C#\KiviPaperiSaksat\KiviPaperiSaksat\bin\Debug\KiviPaperiSaksat.pdb
+D:\C#\KiviPaperiSaksat\KiviPaperiSaksat\obj\Debug\KiviPaperiSaksat.csproj.AssemblyReference.cache
+D:\C#\KiviPaperiSaksat\KiviPaperiSaksat\obj\Debug\KiviPaperiSaksat.csproj.CoreCompileInputs.cache
+D:\C#\KiviPaperiSaksat\KiviPaperiSaksat\obj\Debug\KiviPaperiSaksat.exe
+D:\C#\KiviPaperiSaksat\KiviPaperiSaksat\obj\Debug\KiviPaperiSaksat.pdb

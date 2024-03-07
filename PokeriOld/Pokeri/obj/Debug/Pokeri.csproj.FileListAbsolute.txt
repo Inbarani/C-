@@ -1,0 +1,16 @@
+E:\Koodit\C_sharp\Pokeri\Pokeri\bin\Debug\Pokeri.exe.config
+E:\Koodit\C_sharp\Pokeri\Pokeri\obj\Debug\Pokeri.csprojResolveAssemblyReference.cache
+E:\Koodit\C_sharp\Pokeri\Pokeri\bin\Debug\Pokeri.exe
+E:\Koodit\C_sharp\Pokeri\Pokeri\bin\Debug\Pokeri.pdb
+E:\Koodit\C_sharp\Pokeri\Pokeri\obj\Debug\Pokeri.exe
+E:\Koodit\C_sharp\Pokeri\Pokeri\obj\Debug\Pokeri.pdb
+E:\Koodit\C_sharp\PokeriOma\Pokeri\bin\Debug\Pokeri.exe.config
+E:\Koodit\C_sharp\PokeriOma\Pokeri\obj\Debug\Pokeri.exe
+E:\Koodit\C_sharp\PokeriOma\Pokeri\obj\Debug\Pokeri.pdb
+D:\C#\Pokeri\Pokeri\bin\Debug\Pokeri.exe.config
+D:\C#\Pokeri\Pokeri\bin\Debug\Pokeri.exe
+D:\C#\Pokeri\Pokeri\bin\Debug\Pokeri.pdb
+D:\C#\Pokeri\Pokeri\obj\Debug\Pokeri.csproj.AssemblyReference.cache
+D:\C#\Pokeri\Pokeri\obj\Debug\Pokeri.csproj.CoreCompileInputs.cache
+D:\C#\Pokeri\Pokeri\obj\Debug\Pokeri.exe
+D:\C#\Pokeri\Pokeri\obj\Debug\Pokeri.pdb

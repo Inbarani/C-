@@ -1,0 +1,7 @@
+D:\C#\kivipaparisakset\kivipaparisakset\bin\Debug\kivipaparisakset.exe.config
+D:\C#\kivipaparisakset\kivipaparisakset\bin\Debug\kivipaparisakset.exe
+D:\C#\kivipaparisakset\kivipaparisakset\bin\Debug\kivipaparisakset.pdb
+D:\C#\kivipaparisakset\kivipaparisakset\obj\Debug\kivipaparisakset.csproj.AssemblyReference.cache
+D:\C#\kivipaparisakset\kivipaparisakset\obj\Debug\kivipaparisakset.csproj.CoreCompileInputs.cache
+D:\C#\kivipaparisakset\kivipaparisakset\obj\Debug\kivipaparisakset.exe
+D:\C#\kivipaparisakset\kivipaparisakset\obj\Debug\kivipaparisakset.pdb
